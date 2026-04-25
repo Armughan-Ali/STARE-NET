@@ -6,7 +6,7 @@ A deep learning framework for breast cancer classification using multi-scale tra
 
 ## 🧠 Model Architecture
 
-![STARE-Net Architecture](images/main_figure.png)
+![STARE-Net Architecture](main_figure.png)
 
 ---
 
